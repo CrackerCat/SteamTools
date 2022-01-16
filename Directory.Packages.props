@@ -100,7 +100,7 @@
 		<PackageVersion Include="Microsoft.AppCenter" Version="4.4.0" />
 		<PackageVersion Include="Microsoft.AppCenter.Analytics" Version="4.4.0" />
 		<PackageVersion Include="Microsoft.AppCenter.Crashes" Version="4.4.0" />
-		<PackageVersion Include="Aigio.Avalonia.AppCenter" Version="4.4.0.2" />
+		<PackageVersion Include="Aigio.Avalonia.AppCenter" Version="4.5.0" />
 		<PackageVersion Include="Aigio.Avalonia.AppCenter.Analytics" Version="4.4.0.2" />
 		<PackageVersion Include="Aigio.Avalonia.AppCenter.Crashes" Version="4.4.0.2" />
 		<PackageVersion Include="nor0x.AppCenter" Version="4.4.0-XMAC" />
